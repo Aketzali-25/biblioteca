@@ -6,3 +6,4 @@ Se visualizan las interfaces graficas de funcionamiento, agrega, modificar
 y consultar
 Funciona correctamente la redireccion de botones
 Se establecio correctamente la conexion en el form de funcionamientos
+No se establecio la conexion en los diferentes formularios
