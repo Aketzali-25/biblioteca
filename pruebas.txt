@@ -2,3 +2,5 @@ Se creo modelo entidad relacion
 Se exporto la BD
 se Creo archivo script de inserciones
 Se visualiza el proyecto Biblioteca
+Se visualizan las interfaces graficas de funcionamiento, agrega, modificar
+y consultar
